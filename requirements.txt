@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+
+numpy
+pandas
+pymilvus
+
+
+tensorflow
+essentia-tensorflow
+openl3
+python-dotenv
